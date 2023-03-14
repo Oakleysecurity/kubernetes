@@ -19,7 +19,7 @@ limitations under the License.
 #include <stdlib.h>
 #include <string.h>
 #include <sys/types.h>
-#include <sys/wait.h>   # 等待子进程结束并获取其状态
+#include <sys/wait.h>   /*等待子进程结束并获取其状态*/
 #include <unistd.h>
 
 #define STRINGIFY(x) #x
