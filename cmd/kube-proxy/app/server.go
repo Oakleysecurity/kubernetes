@@ -16,7 +16,7 @@ limitations under the License.
 
 // Package app does all of the work necessary to configure and run a
 // Kubernetes app process.
-package app
+package app #test test
 
 import (
 	goflag "flag"
