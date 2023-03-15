@@ -15,7 +15,7 @@ limitations under the License.
 */
 
 // Package app makes it easy to create a kubelet server for various contexts.
-package app
+package app  #test
 
 import (
 	"context"
